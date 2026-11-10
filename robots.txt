@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://farxaancabdiawyuunis4527-coder.github.io/hogaamiye-website/sitemap.xml
