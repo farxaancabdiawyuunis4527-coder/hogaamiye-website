@@ -79,3 +79,25 @@
     padding: 13px 15px;
   }
 }
+/* HOGAAMIYE — Accessibility Contrast Improvements */
+
+.intro .section-kicker,
+.topics-section .section-kicker,
+.about-copy .section-kicker,
+.topic-number,
+.topic-link,
+.topic-quote .quote-credit {
+  color: #7a5b0a;
+}
+
+.topic-feature .topic-number,
+.topic-feature .topic-link {
+  color: #f0d98a;
+}
+
+.intro-text,
+.section-heading > p,
+.topic-card:not(.topic-feature) p,
+.about-copy > p:not(.section-kicker) {
+  color: #5e6b78;
+}
