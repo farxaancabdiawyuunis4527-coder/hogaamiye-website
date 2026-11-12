@@ -101,3 +101,12 @@
 .about-copy > p:not(.section-kicker) {
   color: #5e6b78;
 }
+/* HOGAAMIYE — Play Button Accessibility */
+.media-visual {
+  cursor: pointer;
+}
+
+.media-visual:focus-visible {
+  outline: 3px solid var(--gold-light);
+  outline-offset: 5px;
+}
