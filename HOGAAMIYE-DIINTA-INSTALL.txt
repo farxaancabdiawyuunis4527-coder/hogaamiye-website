@@ -1,0 +1,31 @@
+HOGAAMIYE — BOGGA DIINTA
+
+1) Ku dar faylka diinta.html
+- Fur GitHub repository-ga:
+  https://github.com/farxaancabdiawyuunis4527-coder/hogaamiye-website
+- Dooro Add file > Upload files.
+- Soo geli diinta.html heerka root-ka, isla meesha index.html yaallo.
+- Riix Commit changes.
+
+2) Ku xidh bogga hore
+- Fur index.html:
+  https://github.com/farxaancabdiawyuunis4527-coder/hogaamiye-website/edit/main/index.html
+- Khadka 97 (kaararka qaybaha), ka beddel xiriiriyaha kaarka koowaad oo keliya:
+  KII HORE: href="#muuqaallo"
+  KAN CUSUB: href="diinta.html"
+- Hubi in beddelku ku dhacay kaarka "Culuumta Islaamka", ee uusan ku dhicin kaararka kale.
+
+3) Sax furitaanka laba-jibbaaran ee qaybta muuqaalada
+- Isla index.html, raadi qaybta video-library.
+- Hay khadka leh:
+  <div class="video-library" id="video-library" aria-label="Afarta muuqaal ee HOGAAMIYE">
+- Ka tirtir furitaanka labaad ee isla markiiba ka hooseeya:
+  <div class="video-library" aria-label="Afarta muuqaal ee HOGAAMIYE">
+- Ha tirtirin wax iframe ah, hana beddelin afarta URL ee YouTube.
+
+4) Commit changes, sug GitHub Pages deployment, kadib tijaabi:
+- Kaarka Culuumta Islaamka wuxuu furayaa /diinta.html
+- Menu-ga telefoonka wuxuu furmaa/xirmaa.
+- Xiriiriyeyaasha gudaha ee bogga Diinta waxay geeyaan qaybaha saxda ah.
+
+Fiiro: Isbeddelada GitHub si toos ah uma aanan qorin; bogga HTML waa fayl diyaar ah oo aad adigu gelinayso. Faylka styles.css iyo script.js hadda jira ayaa bogga cusub adeegsanaya. Bogga cusub ma laha wax YouTube iframe ah.
